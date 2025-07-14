@@ -76,7 +76,7 @@
 
 ###
 
-<img align="right" height="300" src="https://repository-images.githubusercontent.com/344610266/246c3a80-7cf0-11eb-92d0-fe1d20e11982"  />
+<img align="right" height="350" src="https://repository-images.githubusercontent.com/344610266/246c3a80-7cf0-11eb-92d0-fe1d20e11982"  />
 
 ###
 
