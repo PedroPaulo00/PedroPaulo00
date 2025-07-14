@@ -1,4 +1,4 @@
-<img align="right" height="300" src="https://giffiles.alphacoders.com/354/35478.gif"  />
+<img align="right" height="350" src="https://giffiles.alphacoders.com/354/35478.gif"  />
 
 ###
 
@@ -38,6 +38,10 @@
 
 ###
 
+<img align="left" height="250" src="https://pa1.aminoapps.com/6396/56fc0bf30512fc147b3808ac08563bf411c39891_hq.gif"  />
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="20" />
@@ -59,10 +63,6 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
 </div>
-
-###
-
-<img align="left" height="250" src="https://pa1.aminoapps.com/6396/56fc0bf30512fc147b3808ac08563bf411c39891_hq.gif"  />
 
 ###
 
