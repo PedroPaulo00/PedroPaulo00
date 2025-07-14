@@ -76,7 +76,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/PedroPaulo00">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=PedroPaulo00&count=5&unique=true" alt="Spotify recently played"  />
   </a>
@@ -84,9 +84,7 @@
 
 ###
 
-<div align="center">
-  <img height="300" src="https://repository-images.githubusercontent.com/344610266/246c3a80-7cf0-11eb-92d0-fe1d20e11982"  />
-</div>
+<img align="right" height="150" src="https://repository-images.githubusercontent.com/344610266/246c3a80-7cf0-11eb-92d0-fe1d20e11982"  />
 
 ###
 
