@@ -2,27 +2,31 @@
 
 ###
 
-<h3 align="left">☺ Hello World! ☺</h3>
+<h3 align="center">☺ Hello World! ☺</h3>
 
 ###
 
-<p align="left">- Pedro Paulo de Lima<br>- 20/07/2000<br>-  Guarapuava - Brazil.<br>- Computer Science @ UNICENTRO<br>ッ</p>
+<p align="left">- Pedro Paulo de Lima<br>- 20/07/2000<br>-  Guarapuava - Brazil.<br>- Computer Science @ UNICENTRO</p>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">ッ</p>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   <a href="https://www.instagram.com/pedropaulo_xd/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
   </a>
   <a href="pppedro95@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<p align="center">"Here's my chance, time to take it<br>Can't be sure that I'll make it<br>Even though I'm past the point of no return"</p>
+<p align="left">"Here's my chance, time to take it<br>Can't be sure that I'll make it<br>Even though I'm past the point of no return"</p>
 
 ###
 
@@ -61,18 +65,6 @@
 ###
 
 <img align="left" height="180" src="https://i.pinimg.com/originals/85/69/c8/8569c8c3ba8ffce8c51cc2bfa38dff0a.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/PedroPaulo00/PedroPaulo00/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroPaulo00/PedroPaulo00/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroPaulo00/PedroPaulo00/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroPaulo00/PedroPaulo00/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
