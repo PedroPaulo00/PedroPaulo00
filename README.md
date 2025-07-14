@@ -34,11 +34,11 @@
 
 ###
 
-<h3 align="center">▽ Languages and Tools ▽</h3>
+<img align="left" height="250" src="https://pa1.aminoapps.com/6396/56fc0bf30512fc147b3808ac08563bf411c39891_hq.gif"  />
 
 ###
 
-<img align="left" height="250" src="https://pa1.aminoapps.com/6396/56fc0bf30512fc147b3808ac08563bf411c39891_hq.gif"  />
+<h3 align="center">▽ Languages and Tools ▽</h3>
 
 ###
 
