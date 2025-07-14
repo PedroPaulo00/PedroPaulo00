@@ -26,7 +26,7 @@
 
 ###
 
-<img align="left" height="300" src="https://i.pinimg.com/originals/7b/89/ce/7b89ce26fa1fd9f617531766c2e2565a.gif"  />
+<img align="left" height="300" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
