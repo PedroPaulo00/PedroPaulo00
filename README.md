@@ -26,7 +26,7 @@
 
 ###
 
-<img align="left" height="300" src="[https://i.pinimg.com/originals/85/69/c8/8569c8c3ba8ffce8c51cc2bfa38dff0a.gif](https://static.wixstatic.com/media/b7e073_ed47016a2dc54223aebbe4a727e64b5b~mv2.gif)"  />
+<img align="left" height="300" src="https://64.media.tumblr.com/4aa8840ff4f562d07e66a1b3bb19c234/tumblr_pqtzrv9rAR1whahvko1_500.gif"  />
 
 ###
 
