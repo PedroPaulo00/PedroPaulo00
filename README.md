@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Pedro Paulo de Lima<br>- 20/07/2000<br>-  Guarapuava - Brazil.<br>- Computer Science @ UNICENTRO</p>
+<p align="left">- Pedro Paulo de Lima<br>- 20/07/2000<br>-  Guarapuava - Brazil.<br>- 3rd year of Computer Science @ UNICENTRO</p>
 
 ###
 
