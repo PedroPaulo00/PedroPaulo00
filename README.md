@@ -33,6 +33,9 @@
 <p align="right">✓ Meu objetivo é me especializar em programação front-end, criando interfaces digitais inovadoras e intuitivas que proporcionem uma experiência de usuário única e envolvente.</p>
 
 ###
+###
+###
+###
 
 <p align="center">☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠</p>
 
