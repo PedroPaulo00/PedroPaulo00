@@ -1,4 +1,4 @@
-<img align="right" height="250" src="https://giffiles.alphacoders.com/354/35478.gif"  />
+<img align="right" height="300" src="https://giffiles.alphacoders.com/354/35478.gif"  />
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<img align="left" height="250" src="https://pa1.aminoapps.com/6396/56fc0bf30512fc147b3808ac08563bf411c39891_hq.gif"  />
+<img align="left" height="300" src="https://pa1.aminoapps.com/6396/56fc0bf30512fc147b3808ac08563bf411c39891_hq.gif"  />
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</p>
+<p align="center">☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠</p>
 
 ###
 
