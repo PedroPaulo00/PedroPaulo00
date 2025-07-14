@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">"Here's my chance, time to take it<br>Can't be sure that I'll make it<br>Even though I'm past the point of no return"</p>
+<p align="left">☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰<br>"Here's my chance, time to take it<br>Can't be sure that I'll make it<br>Even though I'm past the point of no return"<br>☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰</p>
 
 ###
 
@@ -64,15 +64,23 @@
 
 ###
 
-<img align="left" height="180" src="https://i.pinimg.com/originals/85/69/c8/8569c8c3ba8ffce8c51cc2bfa38dff0a.gif"  />
+<h3 align="center">✞ 𝔉𝔦𝔡𝔢𝔰 𝔮𝔲𝔞𝔢𝔯𝔢𝔫𝔰 𝔦𝔫𝔱𝔢𝔩𝔩𝔢𝔠𝔱𝔲𝔪 ✞</h3>
 
 ###
 
-<div align="center">
+<img align="left" height="300" src="https://i.pinimg.com/originals/85/69/c8/8569c8c3ba8ffce8c51cc2bfa38dff0a.gif"  />
+
+###
+
+<div align="right">
   <a href="https://open.spotify.com/user/PedroPaulo00">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12178176848&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=PedroPaulo00&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<p align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</p>
 
 ###
 
