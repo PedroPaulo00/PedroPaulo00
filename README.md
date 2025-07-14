@@ -1,4 +1,4 @@
-<img align="right" height="300" src="https://i.pinimg.com/originals/70/c5/0e/70c50eee7f9a120f06164b7295fd987b.gif"  />
+<img align="right" height="250" src="https://giffiles.alphacoders.com/354/35478.gif"  />
 
 ###
 
@@ -15,22 +15,22 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   <a href="https://www.instagram.com/pedropaulo_xd/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
   </a>
   <a href="pppedro95@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<img align="left" height="300" src="https://64.media.tumblr.com/4aa8840ff4f562d07e66a1b3bb19c234/tumblr_pqtzrv9rAR1whahvko1_500.gif"  />
+<img align="left" height="250" src="https://pa1.aminoapps.com/6396/56fc0bf30512fc147b3808ac08563bf411c39891_hq.gif"  />
 
 ###
 
-<p align="left">✓ Meu objetivo é me especializar em programação front-end, criando interfaces digitais inovadoras e intuitivas que proporcionem uma experiência de usuário única e envolvente.</p>
+<p align="right">✓ Meu objetivo é me especializar em programação front-end, criando interfaces digitais inovadoras e intuitivas que proporcionem uma experiência de usuário única e envolvente.</p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">"Here's my chance, time to take it<br>Can't be sure that I'll make it<br>Even though I'm past the point of no return"</p>
+<p align="right">"Here's my chance, time to take it<br>Can't be sure that I'll make it<br>Even though I'm past the point of no return"</p>
 
 ###
 
