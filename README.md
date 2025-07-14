@@ -26,22 +26,7 @@
 
 ###
 
-<img align="left" height="300" src="https://pa1.aminoapps.com/6396/56fc0bf30512fc147b3808ac08563bf411c39891_hq.gif"  />
-
-###
-
-<p align="right">✓ Meu objetivo é me especializar em programação front-end, criando interfaces digitais inovadoras e intuitivas que proporcionem uma experiência de usuário única e envolvente.</p>
-
-###
-###
-###
-###
-
-<p align="center">☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠</p>
-
-###
-
-<p align="right">"Here's my chance, time to take it<br>Can't be sure that I'll make it<br>Even though I'm past the point of no return"</p>
+<p align="center">"Here's my chance, time to take it<br>Can't be sure that I'll make it<br>Even though I'm past the point of no return"</p>
 
 ###
 
@@ -74,6 +59,10 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
 </div>
+
+###
+
+<img align="left" height="200" src="https://pa1.aminoapps.com/6396/56fc0bf30512fc147b3808ac08563bf411c39891_hq.gif"  />
 
 ###
 
