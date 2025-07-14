@@ -26,7 +26,23 @@
 
 ###
 
-<p align="left">☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰<br>"Here's my chance, time to take it<br>Can't be sure that I'll make it<br>Even though I'm past the point of no return"<br>☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰</p>
+<img align="left" height="300" src="https://i.pinimg.com/originals/85/69/c8/8569c8c3ba8ffce8c51cc2bfa38dff0a.gif"  />
+
+###
+
+<p align="left">✓ Meu objetivo é me especializar em programação front-end, criando interfaces digitais inovadoras e intuitivas que proporcionem uma experiência de usuário única e envolvente.</p>
+
+###
+
+<p align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</p>
+
+###
+
+<p align="left">"Here's my chance, time to take it<br>Can't be sure that I'll make it<br>Even though I'm past the point of no return"</p>
+
+###
+
+<p align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</p>
 
 ###
 
@@ -64,15 +80,7 @@
 
 ###
 
-<h3 align="center">✞ 𝔉𝔦𝔡𝔢𝔰 𝔮𝔲𝔞𝔢𝔯𝔢𝔫𝔰 𝔦𝔫𝔱𝔢𝔩𝔩𝔢𝔠𝔱𝔲𝔪 ✞</h3>
-
-###
-
-<img align="left" height="300" src="https://i.pinimg.com/originals/85/69/c8/8569c8c3ba8ffce8c51cc2bfa38dff0a.gif"  />
-
-###
-
-<div align="right">
+<div align="center">
   <a href="https://open.spotify.com/user/PedroPaulo00">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=PedroPaulo00&count=5&unique=true" alt="Spotify recently played"  />
   </a>
@@ -80,12 +88,20 @@
 
 ###
 
-<p align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</p>
+<p align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</p>
 
 ###
 
 <div align="center">
   <img height="300" src="https://repository-images.githubusercontent.com/344610266/246c3a80-7cf0-11eb-92d0-fe1d20e11982"  />
 </div>
+
+###
+
+<p align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</p>
+
+###
+
+<h3 align="center">✞ 𝔉𝔦𝔡𝔢𝔰 𝔮𝔲𝔞𝔢𝔯𝔢𝔫𝔰 𝔦𝔫𝔱𝔢𝔩𝔩𝔢𝔠𝔱𝔲𝔪 ✞</h3>
 
 ###
