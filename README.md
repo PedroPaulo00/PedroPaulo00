@@ -1,16 +1,16 @@
-<img align="right" height="250" src="https://i.pinimg.com/originals/70/c5/0e/70c50eee7f9a120f06164b7295fd987b.gif"  />
+<img align="right" height="300" src="https://i.pinimg.com/originals/70/c5/0e/70c50eee7f9a120f06164b7295fd987b.gif"  />
 
 ###
 
-<h3 align="center">☺ Hello World! ☺</h3>
+<h3 align="left">☺ Hello World! ☺</h3>
 
 ###
 
-<p align="center">- Pedro Paulo de Lima<br>- 20/07/2000<br>-  Guarapuava - Brazil.<br>- Computer Science @ UNICENTRO<br>ッ</p>
+<p align="left">- Pedro Paulo de Lima<br>- 20/07/2000<br>-  Guarapuava - Brazil.<br>- Computer Science @ UNICENTRO<br>ッ</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <a href="https://www.instagram.com/pedropaulo_xd/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
