@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">☺ Hello World! ☺</h3>
+<h3 align="center">☺ Hello, Clancy! ☺</h3>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">"Here's my chance, time to take it<br>Can't be sure that I'll make it<br>Even though I'm past the point of no return"</p>
+<p align="left">"In a season of lessons learned in giving up<br>You learn what you can and can't take"</p>
 
 ###
 
