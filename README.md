@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">"In a season of lessons learned in giving up<br>You learn what you can and can't take"</p>
+<p align="left">"In a season of lessons learned in giving up<br>You learn what you can and can't take<br>| - /"</p>
 
 ###
 
